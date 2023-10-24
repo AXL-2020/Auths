@@ -1,8 +1,7 @@
 {
-  "Users": {
-    "Fyrahh": {
-      "auth" : 1,
-      "hwid" : 29548
-    }
+  "users": {
+    "fyrahh" : 29548,
+    "robert" : 69420,
+    "craige" : 12345
   }
 }
