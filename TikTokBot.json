@@ -1,6 +1,8 @@
 {
-  "Fyrahh": {
-    "Auth" : 1,
-    "CPU" : 29548
+  "Users": {
+    "Fyrahh": {
+      "auth" : 1,
+      "cpu" : 29548
+    }
   }
 }
